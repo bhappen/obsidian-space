@@ -1,6 +1,8 @@
 {
   "name": "Alex's Theme",
   "version": "0.0.0",
-  "minAppVersion": "0.0.0",
-  "author": "BHappen"
+  "minAppVersion": "1.6.0",
+  "author": "BHappen",
+  "authorUrl": "https://bhappen.com",
+  "fundingUrl": "https://buymeacoffee.com/bhappen"
 }
