@@ -20,6 +20,13 @@ Welcome to **Obsidian Space**, an immersive space-themed Obsidian theme designed
    - Search `space` and select our theme.
    - Activate the theme by clicking on it in the theme list.
 
+## Screenshots
+**Operation Galactic Dawn**
+![](/Operation-Galactic-Dawn.png)
+
+**Space Logs**
+![](/Space-Log.png)
+
 ## Support and Contributions
 
 If you encounter any issues or have suggestions for improvements, please open an issue on our [GitHub repository](https://github.com/bhappen/obsidian-space). Contributions are welcome! Feel free to fork the repository and submit pull requests.
